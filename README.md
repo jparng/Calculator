@@ -1,2 +1,3 @@
 # Calculator
-This is a calculator made from the guidelines of the Odin Project!
+Calculator that the user can input integers and use Addition, Subtraction, Multiplication, and Division to output the answer.
+
